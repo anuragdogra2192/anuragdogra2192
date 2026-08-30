@@ -19,9 +19,6 @@ Senior Software engineer in Dresden, Germany, bridging **AI and HPC** — applyi
 
 ### 📂 Projects
 
-*Browse all repos → [github.com/anuragdogra2192?tab=repositories](https://github.com/anuragdogra2192?tab=repositories)*
-
-
 | Project | Tech Stack | Description |
 |---|---|---|
 | [Healthcare Concierge Multi-Agent System](https://github.com/anuragdogra2192/Health_Concierge_AgenticAI) | BeeAI, LangChain, Claude, Gemini, FastMCP, A2A | Distributed multi-agent system coordinating 4 microservices via A2A Protocol |
@@ -47,6 +44,9 @@ Senior Software engineer in Dresden, Germany, bridging **AI and HPC** — applyi
 | [TensorFlow: Advanced Techniques Specialization](https://github.com/anuragdogra2192/TensorFlowAdvancedTechniques) | TensorFlow, Python | Coursera specialization coursework: custom models/layers/losses, custom & distributed training, advanced computer vision, and generative deep learning (GANs, VAEs, style transfer) |
 | [Fundamentals of Deep Learning for Multi-GPUs](https://github.com/anuragdogra2192/FundamentalsOfDeepLearningForMulti-GPUs) | TensorFlow, Keras, Horovod | NVIDIA DLI workshop: converting single-GPU training pipelines to Horovod-enabled multi-GPU training with SGD scaling best practices |
 | [Design Patterns in C++](https://github.com/anuragdogra2192/CPP-DesignPatternsCreational) | C++ | SOLID principles and creational design patterns (Singleton, Builder, Prototype, Factory Method, Abstract Factory, Dependency Injection) |
+
+*Browse all repos → [github.com/anuragdogra2192?tab=repositories](https://github.com/anuragdogra2192?tab=repositories)*
+
 
 ---
 
