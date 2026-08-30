@@ -11,7 +11,7 @@
 
 Senior Software engineer in Dresden, Germany, bridging **AI and HPC** — applying a distributed-systems background (CUDA, MPI, multi-node scaling) to **Deep Learning**, **Agentic AI**, and **AI platform/infra** work.
 
-**Goal:** Build AI that's efficient and trustworthy enough for real-world domains like healthcare and climate.
+**Goal:** Build AI that's efficient and trustworthy enough for real-world domains.
 
 🎓 MSc. Computational Materials Science, TU Bergakademie Freiberg
 
