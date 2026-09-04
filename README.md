@@ -47,6 +47,13 @@ Senior Software engineer in Dresden, Germany, bridging **AI and HPC** — applyi
 
 *Browse all repos → [github.com/anuragdogra2192?tab=repositories](https://github.com/anuragdogra2192?tab=repositories)*
 
+---
+
+### ✍️ Blogs
+
+- [NCCL's Tree Topology: How GPUs Reduce and Broadcast Data at Scale](https://medium.com/@anuragdogra2192/nccls-tree-topology-how-gpus-reduce-and-broadcast-data-at-scale-c85d358ac494?postPublishedType=initial)
+- [NCCL: The Math Behind Pointerless Binary Trees (GPU Topologies)](https://medium.com/@anuragdogra2192/nccl-the-math-behind-pointerless-binary-trees-gpu-topologies-fa06d244d70c)
+- [LLAMA.CPP on NVIDIA Jetson Nano: A Complete Guide](https://medium.com/@anuragdogra2192/llama-cpp-on-nvidia-jetson-nano-a-complete-guide-fb178530bc35)
 
 ---
 
