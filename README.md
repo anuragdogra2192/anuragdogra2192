@@ -24,10 +24,13 @@ Senior Software engineer in Dresden, Germany, bridging **AI and HPC** — applyi
 | [Healthcare Concierge Multi-Agent System](https://github.com/anuragdogra2192/Health_Concierge_AgenticAI) | BeeAI, LangChain, Claude, Gemini, FastMCP, A2A | Distributed multi-agent system coordinating 4 microservices via A2A Protocol |
 | [Climate Intelligence & Multi-Agent Analysis Platform](https://github.com/anuragdogra2192/MakingAgentsReliableWithNeMoAgentToolKit) | NVIDIA NAT, LangGraph, Llama 3.1 70B, Ragas | ReAct agent querying NOAA data; cut tool calls 70%, latency 60% |
 | [Market Research Multi-Agent Pipeline](https://github.com/anuragdogra2192/Market_Research_Team) | LangGraph, OpenAI, Tavily API | 4-agent pipeline automating campaign creation end-to-end |
+| [Post-Training: Fine-Tuning & RL for LLMs](https://github.com/anuragdogra2192/PostTrainingFineTuning-RLForLLMs) | PyTorch, Hugging Face, LoRA, GRPO | 5-module exploration of SFT, RLHF, GRPO, and LoRA fine-tuning with evaluation, error analysis, and production monitoring |
 | [AI Email Assistant](https://github.com/anuragdogra2192/LongTermAgenticMemoryWithLangGraph) | LangGraph, LangMem, OpenAI, Pydantic | Email triage & drafting agent with semantic/episodic/procedural memory |
 | [Autonomous Multi-Agent Research System](https://github.com/anuragdogra2192/AgentsWithLangGraph) | LangGraph, OpenAI, Tavily, SQLite | Essay-writing agent with reflection loops and human-in-the-loop checkpoints |
 | [RAG Chatbot](https://github.com/anuragdogra2192/LangChainChatWithYourData) | LangChain, ChromaDB, Panel, Whisper | Conversational chatbot with MMR search and multi-source ingestion (PDF, Notion, audio) |
 | [Multi-Agent System with Tool Orchestration & Reflection](https://github.com/anuragdogra2192/AgenticAI) | aisuite, OpenAI, Anthropic, FastAPI, SQLAlchemy | ReAct + Reflection + Planning-in-Code agents with multimodal chart critique |
+| [Flow Matching and Diffusion Models](https://github.com/anuragdogra2192/FlowMatchingAndDiffusionModel) | PyTorch, torch.func | Educational lab series on generative modeling: ODEs/SDEs, score & flow matching, and a diffusion transformer for conditional MNIST generation |
+| [Transformers in Practice](https://github.com/anuragdogra2192/TransformersInPractice) | PyTorch, Hugging Face, vLLM | Hands-on transformer LLM implementations covering structured-output RAG, multi-head attention, and GPU memory/KV-cache optimization |
 | [AI Subreddit Automation Bot](https://www.reddit.com/r/TechStuffAI/) | TypeScript, Node.js, Redis, Gemini Flash | 24/7 cloud-native agent replying to posts on r/TechStuffAI |
 | [Fruit Quality Inspection & Synthetic Data Generation](https://github.com/anuragdogra2192/PyTorchForDeepLearning/tree/main/PyTorch_AdvancedArchitecturesandDeployment/Module2/Project_FruitQualityInspectionAndGeneration) | Stable Diffusion, ViT, PyTorch | Fruit defect classification with synthetic training data generation |
 | [CleanVision AI: Smart Fleet Vision System](https://github.com/anuragdogra2192/PyTorchForDeepLearning/tree/main/PyTorch_AdvancedArchitecturesandDeployment/Module4/Project_CleanVision_AI-OptimizingModelsforMetroCity'sSmartFleet) | Quantization, Pruning, ONNX | Compressed CV models cutting inference latency 60%+ for edge deployment |
@@ -77,6 +80,9 @@ Google ADK, LangChain, LangGraph, NVIDIA NeMo Agent Toolkit, Model Context Proto
 
 **LLM Architecture & Design**
 Multi-Agent Systems & Orchestration, Advanced RAG, ReAct & Reflection Patterns, Tool & Function Calling, Fine-Tuning, Prompt Engineering, Agent Memory (Semantic/Episodic/Procedural), Guardrails
+
+**LLM Post-Training & Alignment**
+Supervised Fine-Tuning (SFT), RLHF, Group Relative Policy Optimization (GRPO), Preference Optimization, LoRA / PEFT, Reward Modeling, Reward Hacking Mitigation, Synthetic Data Generation
 
 **AI Evaluation & Observability**
 <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"> <img src="https://img.shields.io/badge/Arize_Phoenix-000000?style=flat-square">
